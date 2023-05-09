@@ -1,7 +1,5 @@
 # challenge_encriptador 🔒
-<p align="center">
-  <img src="https://github.com/camilazucchi/challenge-decodificador/blob/master/assets/pictures/cute-cat-head.png" alt="Cabeça de um gatinho" width=100 />
-</p>
+
 
 ## Início
 O projeto faz parte da primeira fase da seleção ONE (Oracle Next Education) em parceria com a Alura e possui como objetivo a **criptografia de textos**.
@@ -24,3 +22,10 @@ Para melhor visualização, o projeto encontra-se em deploy [**aqui**](https://c
 
 ### Extras
 Fica de escolha do participante adicionar ou não um botão de copiar (ctrl + c) do texto criptografado pelo usuário.
+
+
+## Técnicas e Tecnologias utilizadas
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Google Fonts](https://fonts.google.com/)
